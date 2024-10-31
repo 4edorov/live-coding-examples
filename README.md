@@ -4,7 +4,7 @@
 
 1. [Flatten object](./javascript/flatten-object.js)
 2. [Merge intervals](./javascript//merge-intervals.js)
-3. [Removing Minimum and Maximum From Array]()
+3. [Find min and max in array](./javascript//min-max-array.js)
 
 ## Sources
 
