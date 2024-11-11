@@ -7,6 +7,8 @@
 3. [Find min and max in array](./javascript/min-max-array.js)
 4. [Archive string](./javascript/archive-string.js)
 5. [Throttle decorator](./javascript/throttle-decorator.js)
+6. [Fibonacci value](./javascript/fibonacci-value.js)
+7. [Palindrome string](./javascript/palindrome-string.js)
 
 ## Sources
 
