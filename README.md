@@ -9,6 +9,7 @@
 5. [Throttle decorator](./javascript/throttle-decorator.js)
 6. [Fibonacci value](./javascript/fibonacci-value.js)
 7. [Palindrome string](./javascript/palindrome-string.js)
+8. [Merge arrays](./javascript/merge-sorted-arrays.js)
 
 ## Sources
 
