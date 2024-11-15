@@ -10,6 +10,7 @@
 6. [Fibonacci value](./javascript/fibonacci-value.js)
 7. [Palindrome string](./javascript/palindrome-string.js)
 8. [Merge arrays](./javascript/merge-sorted-arrays.js)
+9. [Second max value](./javascript/second-max-value.js)
 
 ## Sources
 
