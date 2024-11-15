@@ -7,13 +7,13 @@ function throttleDecorator(fn, delay = 1000) {
   let curArgs = null;
   let curThis = null;
   return function(...args) {
+    curArgs = args;
+    curThis = this;
+
     if (!isWaiting) {
       isWaiting = true;
       return fn.apply(curThis, args);
     }
-
-    curArgs = args;
-    curThis = this;
 
     setTimeout(() => {
       isWaiting = false;
