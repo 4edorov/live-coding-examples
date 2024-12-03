@@ -11,6 +11,7 @@
 7. [Palindrome string](./javascript/palindrome-string.js)
 8. [Merge arrays](./javascript/merge-sorted-arrays.js)
 9. [Second max value](./javascript/second-max-value.js)
+10. [Promise all](./javascript/promise-all.js)
 
 ## Sources
 
