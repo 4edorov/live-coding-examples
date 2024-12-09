@@ -12,7 +12,11 @@
 8. [Merge arrays](./javascript/merge-sorted-arrays.js)
 9. [Second max value](./javascript/second-max-value.js)
 10. [Promise all](./javascript/promise-all.js)
+12. [Find num](./javascript/find-num.js)
+13. [Array map](./javascript/array-map.js)
+14. [Debounce-throttle](./javascript/debounce-throttle.js)
 
 ## Sources
 
 1. [JavaScript Live-Coding: Мастерство решения типовых задач на собеседованиях](https://habr.com/ru/articles/741108/)
+2. [Shorts](https://github.com/guz86/shorts)
